@@ -67,6 +67,12 @@ build CMakeFiles/DSA_WITH_C__.dir/Pointers/NullPointer.cpp.o: CXX_COMPILER__DSA_
   OBJECT_DIR = CMakeFiles/DSA_WITH_C__.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA_WITH_C__.dir/Pointers
 
+build CMakeFiles/DSA_WITH_C__.dir/Pointers/danglingPointer.cpp.o: CXX_COMPILER__DSA_WITH_C___unscanned_Debug /home/ahsanali/CLionProjects/DSA-WITH-C++/Pointers/danglingPointer.cpp || cmake_object_order_depends_target_DSA_WITH_C__
+  DEP_FILE = CMakeFiles/DSA_WITH_C__.dir/Pointers/danglingPointer.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/DSA_WITH_C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA_WITH_C__.dir/Pointers
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DSA_WITH_C__
@@ -75,7 +81,7 @@ build CMakeFiles/DSA_WITH_C__.dir/Pointers/NullPointer.cpp.o: CXX_COMPILER__DSA_
 #############################################
 # Link the executable DSA_WITH_C__
 
-build DSA_WITH_C__: CXX_EXECUTABLE_LINKER__DSA_WITH_C___Debug CMakeFiles/DSA_WITH_C__.dir/Pointers/pointerDemo.cpp.o CMakeFiles/DSA_WITH_C__.dir/Pointers/wildPointer.cpp.o CMakeFiles/DSA_WITH_C__.dir/Pointers/NullPointer.cpp.o
+build DSA_WITH_C__: CXX_EXECUTABLE_LINKER__DSA_WITH_C___Debug CMakeFiles/DSA_WITH_C__.dir/Pointers/pointerDemo.cpp.o CMakeFiles/DSA_WITH_C__.dir/Pointers/wildPointer.cpp.o CMakeFiles/DSA_WITH_C__.dir/Pointers/NullPointer.cpp.o CMakeFiles/DSA_WITH_C__.dir/Pointers/danglingPointer.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/DSA_WITH_C__.dir
   POST_BUILD = :
