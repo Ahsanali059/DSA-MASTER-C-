@@ -1,0 +1,3 @@
+/home/ahsanali/CLionProjects/DSA-WITH-C++/cmake-build-debug/CMakeFiles/DSA_WITH_C__.dir
+/home/ahsanali/CLionProjects/DSA-WITH-C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahsanali/CLionProjects/DSA-WITH-C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
