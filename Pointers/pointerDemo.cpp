@@ -15,7 +15,7 @@
 //
 // }
 //
-
+//always pointer size is 8 byte in case of any datatype
 #include<iostream>
 using namespace std;
 
@@ -44,25 +44,33 @@ int main() {
     */
 
     //Derefrences Operator
-    int *ptr=NULL;
-    int value = *ptr;//* Is a derefrences Operator
+    // int *ptr=NULL;
+    // int value = *ptr;//* Is a derefrences Operator
+    //
+    // cout<<"Value "<<value<<endl;
+    // cout<<"Current Address "<<ptr<<endl;
+    // //move pointer to next memory location
+    // ptr++;//example if integer value address is 1000 then next address should be 1004
+    // cout<<"Next Address "<<ptr<<endl;
 
-    cout<<"Value "<<value<<endl;
-    cout<<"Current Address "<<ptr<<endl;
-    //move pointer to next memory location
-    ptr++;//example if integer value address is 1000 then next address should be 1004
-    cout<<"Next Address "<<ptr<<endl;
+    //& Address of Operator
+    //*derefrence Operator
+
+
+    int nums = 7;
+
+    int* ptr = &nums;
+
+    cout<<"Before Value "<<*ptr<<endl;
+
+    cout<<"After Value "<<(*ptr)++<<endl;
+
+     //copy pointer
+    int *q = ptr;
 
 
 
     return 0;
-
-
-
-
-
-
-
 
 }
 

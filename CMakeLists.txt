@@ -10,4 +10,7 @@ add_executable(DSA_WITH_C__
         Pointers/danglingPointer.cpp
         Pointers/pointerDemo2.cpp
         Pointers/voidPointer.cpp
+        Pointers/copyPointer.cpp
+        Pointers/arthematicPointer.cpp
+        Pointers/doublePointer.cpp
 )

@@ -1,8 +1,9 @@
 # ninja log v5
 3	24	1715426018667798315	CMakeFiles/DSA_WITH_C__.dir/Pointers/danglingPointer.cpp.o	4e8127a002dcd913
 327	417	1715524745696770368	DSA_WITH_C__	615b7aa87fcfe40e
+2	345	1715526965788078288	CMakeFiles/DSA_WITH_C__.dir/Pointers/voidPointer.cpp.o	4993fc0cdda0be9c
 2	24	1715426018667798315	CMakeFiles/DSA_WITH_C__.dir/Pointers/NullPointer.cpp.o	c4ccab550132a76a
-2	327	1715524745604770467	CMakeFiles/DSA_WITH_C__.dir/Pointers/pointerDemo.cpp.o	1b50961f6f353fc2
+2	341	1715526965784078232	CMakeFiles/DSA_WITH_C__.dir/Pointers/pointerDemo.cpp.o	1b50961f6f353fc2
 23	38	1715426018683800512	CMakeFiles/DSA_WITH_C__.dir/Pointers/pointerDemo2.cpp.o	7d09703df5d30a0a
 2	379	1715417121194466388	CMakeFiles/DSA_WITH_C__.dir/main.cpp.o	90914d2a248d3f05
 2	21	1715426018663797766	CMakeFiles/DSA_WITH_C__.dir/Pointers/wildPointer.cpp.o	72999120d3cdf5d2
