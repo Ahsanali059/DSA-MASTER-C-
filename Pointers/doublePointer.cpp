@@ -16,6 +16,8 @@ int main() {
 
  int **doublePointer = &ptr;
 
+ //same like triple pointer that hold the address of double pointer
+
 
 
 

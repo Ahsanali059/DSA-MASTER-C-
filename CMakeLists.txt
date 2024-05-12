@@ -13,4 +13,5 @@ add_executable(DSA_WITH_C__
         Pointers/copyPointer.cpp
         Pointers/arthematicPointer.cpp
         Pointers/doublePointer.cpp
+        Pointers/passByValue.cpp
 )
