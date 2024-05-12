@@ -8,4 +8,6 @@ add_executable(DSA_WITH_C__
         Pointers/wildPointer.cpp
         Pointers/NullPointer.cpp
         Pointers/danglingPointer.cpp
+        Pointers/pointerDemo2.cpp
+        Pointers/voidPointer.cpp
 )
